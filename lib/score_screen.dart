@@ -57,7 +57,7 @@ class ScoreSceen extends StatelessWidget {
                       },
                       child: Text("Re-calculte",style:TextStyle(color: Colors.white),),
                   ),
-                  SizedBox(width: 10,),
+                  SizedBox(width: 11,),
                   ElevatedButton(
                     onPressed: (){
                       Share.share(
