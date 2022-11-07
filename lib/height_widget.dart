@@ -26,7 +26,7 @@ class _HeightWidgetState extends State<HeightWidget> {
                 style: TextStyle(fontSize: 25, color: Colors.grey),
               ),
               const SizedBox(
-                height: 10,
+                height: 11,
               ),
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
@@ -36,7 +36,7 @@ class _HeightWidgetState extends State<HeightWidget> {
                     style: const TextStyle(fontSize: 40),
                   ),
                   const SizedBox(
-                    width: 10,
+                    width: 11,
                   ),
                   const Text(
                     "cm",
